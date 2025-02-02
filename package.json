@@ -1,7 +1,7 @@
 {
-  "name": "easy-webdev-startpack",
-  "version": "3.1.1",
-  "description": "HTML5+CSS3 template for easy start website project'",
+  "name": "web-startpack",
+  "version": "1.0.1",
+  "description": "Web template for start website project'",
   "main": "gulpfile.js",
   "scripts": {
     "html": "gulp",
@@ -43,7 +43,9 @@
     "require-dir": "^1.2.0",
     "vinyl-ftp": "^0.6.1"
   },
-  "dependencies": {
-    "sass": "^1.56.0"
+  "dependencies": {},
+  "volta": {
+    "node": "14.21.3",
+    "npm": "7.24.2"
   }
 }
